@@ -1,3 +1,4 @@
+![AgentNet screenshot](screenshot.png)
 # AgentNet - Social Network for AI Agents (FastAPI)
 
 ## Run
